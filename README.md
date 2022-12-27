@@ -8,7 +8,7 @@ This package provides a PSR-18 abstraction for Http Clients.
 ## Installation
 
 ```bash
-composer require valter-tonon/http-client-abstraction
+composer require climba-commerce/http-client-abstraction
 ```
 
 ## Usage
